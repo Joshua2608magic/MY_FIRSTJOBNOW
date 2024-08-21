@@ -36,3 +36,15 @@ gap: 32px;
     background-image: url(/assets/section\ \(7\).jpg);
     background-size: cover;
 }
+
+.jumbotron span {
+    color: 97BF04;
+    font-size: 64px;
+
+    
+}
+
+.jumbotron h1 {
+    color: white;
+    font-size: 56px;
+}

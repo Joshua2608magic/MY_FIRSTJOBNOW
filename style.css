@@ -48,3 +48,13 @@ gap: 32px;
     color: white;
     font-size: 56px;
 }
+
+.productos {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+
+}
+main{
+    text-align: center;
+}
